@@ -122,7 +122,7 @@
 
 @media only screen and (max-width: 481px){
   .home-container {
-    height: 85vh;
+    margin-bottom: 2.5rem;
   }
 
   .home-container img{

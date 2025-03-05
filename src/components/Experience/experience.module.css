@@ -98,6 +98,13 @@
   display: none;
 }
 
+@media only screen and (max-width: 1024px) and (min-width: 768px){
+  .experience-container {
+    height: auto;
+  }
+}
+
+
 @media only screen and (max-width: 768px) and (min-width: 375px){
 
   .experience-container h1{
